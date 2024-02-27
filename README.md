@@ -11,7 +11,7 @@ There are more stuff that I want to explain here but I'm kinda lazy rn, maybe I'
 ## Controls:
 WASD - Move  
 Spacebar - Jump  
-E - Use / Interact  
+E - Use / Pick up items (keys, weapons, etc) 
 Mouse 2 - Pick up objects  
 Mouse 2 + Mouse 1 - Throw objects  
 TAB - Inventory  
