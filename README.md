@@ -1,4 +1,6 @@
 # Unity-Test-Game
+
+## About:  
 This is an old unity project that I was messing with back in 2022, this was supposed to be an "FPS Survival Horror" based game, where the player would start on a forest and then make their way to an underground tunnel system, where there would be some puzzles to be solved and some spooky stuff going on, but as it turns out, I didn't even get to finish the first area of the game, and I quickly found out that this was going to be a huge learning curve if I wanted to continue it's development.  
 Everything you see in the game is in an extremely early development state, there are some glitches that can be easily reproduced as well, like the "infinite jumping bug" and also "vertical prop boost" (as i like to call them).  
 
