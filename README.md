@@ -7,3 +7,4 @@ Spacebar - Jump
 E - Use / Interact  
 Mouse 2 - Pick up objects  
 Mouse 2 + Mouse 1 - Throw objects  
+TAB - Inventory  
