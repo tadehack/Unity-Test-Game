@@ -15,3 +15,13 @@ E - Use / Pick up items (keys, weapons, etc)
 Mouse 2 - Pick up objects  
 Mouse 2 + Mouse 1 - Throw objects  
 TAB - Inventory  
+
+## Screenshots:  
+![Alt text](https://i.imgur.com/Q54ok9N.png)  
+![Alt text](https://i.imgur.com/FzJREPJ.png)  
+![Alt text](https://i.imgur.com/y7dOOcN.png)  
+![Alt text](https://i.imgur.com/OO2QXdy.png)  
+![Alt text](https://i.imgur.com/DeCD7Eo.png)  
+![Alt text](https://i.imgur.com/Q2pIq4g.png)  
+![Alt text](https://i.imgur.com/3ErCGeM.png)  
+ 
