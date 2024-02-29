@@ -10,6 +10,7 @@ There are more stuff that I want to explain here but I'm kinda lazy rn, maybe I'
 
 ## Controls:
 WASD - Move  
+SHIFT - Run  
 Spacebar - Jump  
 E - Use / Pick up items (keys, weapons, etc)  
 Mouse 2 - Pick up objects  
